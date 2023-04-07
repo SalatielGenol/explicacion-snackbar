@@ -1,4 +1,4 @@
-package com.example.explicacionsnackbar
+package es.genol.explicacionSnackbar
 
 import android.widget.Toast
 import androidx.compose.foundation.background

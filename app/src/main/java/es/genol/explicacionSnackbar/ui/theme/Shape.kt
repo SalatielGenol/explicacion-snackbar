@@ -1,4 +1,4 @@
-package com.example.explicacionsnackbar.ui.theme
+package es.genol.explicacionSnackbar.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

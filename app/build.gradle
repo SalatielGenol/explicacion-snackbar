@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.explicacionsnackbar'
+    namespace 'es.genol.explicacionSnackbar'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.explicacionsnackbar"
+        applicationId "es.genol.explicacionSnackbar"
         minSdk 24
         targetSdk 33
         versionCode 1

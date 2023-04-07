@@ -1,4 +1,4 @@
-package com.example.explicacionsnackbar
+package es.genol.explicacionSnackbar
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

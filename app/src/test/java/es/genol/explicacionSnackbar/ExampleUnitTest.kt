@@ -1,4 +1,4 @@
-package com.example.explicacionsnackbar
+package es.genol.explicacionSnackbar
 
 import org.junit.Test
 
